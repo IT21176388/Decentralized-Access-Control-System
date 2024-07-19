@@ -1,7 +1,5 @@
 # Decentralized-Authentication-System
 
-# Decentralized Authentication System
-
 This repository contains a DApp project that demonstrates how to set up and interact with a decentralized application using Truffle, Ganache, and a simple client interface.
 
 ## Getting Started
